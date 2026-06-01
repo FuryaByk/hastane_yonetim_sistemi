@@ -8,5 +8,6 @@ namespace hastane_yonetim_sistemi
 {
     public class DoktorManager
     {
+        DoktorContext c = new DoktorContext();
     }
 }
